@@ -1,0 +1,21 @@
+body{
+	margin: center;
+}
+
+form{
+	padding: 10px;
+	max-width: 50%;
+}
+
+form section{
+	border-style:solid;
+	background: lightgray;
+	padding: 10px;
+	width: 95%;
+}
+
+form textarea{
+	margin: 5px;
+	height: 200px;
+	width: 95%;
+}
